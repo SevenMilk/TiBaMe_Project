@@ -1,4 +1,5 @@
-# 資策會AI/Bigdata數據分析師專題─扶搖職上
+# 資策會TiBaMe AI/Bigdata數據分析師專題─扶搖職上
+登上TiBaMe官網：https://www.tibame.com/coursegoodjob/bigdata?path=works/works_JobHunter.html  
 專題簡報：https://drive.google.com/open?id=1ElYZUH3oBinIgs6aK76vdBrjcNetkWHJ  
 專題摘要：https://drive.google.com/open?id=1zSrs4actYfLGhW29NsKVJxO359ENWPDu  
 
