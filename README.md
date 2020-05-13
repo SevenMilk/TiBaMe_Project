@@ -1,6 +1,6 @@
 # 資策會TiBaMe AI/Bigdata數據分析師專題─扶搖職上
 登上TiBaMe官網：https://www.tibame.com/coursegoodjob/bigdata?path=works/works_JobHunter.html  
-專題簡報：https://reurl.cc/QdYx1M
+專題簡報：https://reurl.cc/QdYx1M  
 專題摘要：https://reurl.cc/E7VeOm  
 
 負責面試捕手（模擬面試）功能，資料串接、系統服務架構設計  
