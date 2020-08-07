@@ -14,10 +14,11 @@
 ![](https://github.com/SevenMilk/TiBaMe_Project/blob/master/images/%E6%9E%B6%E6%A7%8B%E5%9C%96.png)
 ### 工作說明
 * 負責面試捕手（模擬面試）功能，資料串接、系統服務架構設計
-### 面試捕手程式說明
+### 面試捕手
 ![](https://github.com/SevenMilk/TiBaMe_Project/blob/master/images/%E5%B0%81%E9%9D%A22.png)
-#### 架構圖
+### 架構圖
 ![](https://github.com/SevenMilk/TiBaMe_Project/blob/master/images/%E9%9D%A2%E8%A9%A6%E6%8D%95%E6%89%8B%E6%9E%B6%E6%A7%8B%E5%9C%96.png)
+### 程式說明
 * 樹莓派   
     * 蒐集user姿態、表情影像  
 * views.py   
