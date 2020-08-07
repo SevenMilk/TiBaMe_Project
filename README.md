@@ -4,7 +4,7 @@
 * [專題摘要](https://reurl.cc/E7VeOm)
 
 ## 負責面試捕手（模擬面試）功能，資料串接、系統服務架構設計  
-![](https://witie65.echome.tw/resources?rid=8cb796cb4bfea5a350f05500ced8cb06308b94bb8648f1f3df715b6f4446d9c4&url=https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fmarketing-prd%2Fgoodjob%2Fbigdata%2Fimgs%2Fworks_JobHunter_5.PNG&cid=__FGL__8624322966038f87f249433b7e2f07987d95a8b30000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&bdk=ff4a686c02e616295ef5ae2749f02810c7c9d22be5205d3d1db3237de04eb40a&eid=2) 
+![](https://github.com/SevenMilk/TiBaMe_Project/blob/master/images/%E5%B0%81%E9%9D%A2.png) 
 * 樹莓派   
     * 蒐集user姿態、表情影像  
 * views.py   
