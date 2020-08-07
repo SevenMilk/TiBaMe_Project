@@ -1,4 +1,3 @@
-# 資策會TiBaMe AI/Bigdata數據分析師專題─扶搖職上
 ![](https://github.com/SevenMilk/TiBaMe_Project/blob/master/images/%E5%B0%81%E9%9D%A2.png)
 ## 登上[TiBaMe](https://www.tibame.com/coursegoodjob/bigdata?path=works/works_JobHunter.html)官網：
 * [專題簡報](https://reurl.cc/QdYx1M)
