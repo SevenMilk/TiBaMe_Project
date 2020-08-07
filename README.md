@@ -15,6 +15,7 @@
 ### 工作說明
 * 負責面試捕手（模擬面試）功能，資料串接、系統服務架構設計
 ### 面試捕手程式說明
+![](https://github.com/SevenMilk/TiBaMe_Project/blob/master/images/%E5%B0%81%E9%9D%A22.png)
 * 樹莓派   
     * 蒐集user姿態、表情影像  
 * views.py   
